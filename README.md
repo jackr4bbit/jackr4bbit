@@ -11,6 +11,7 @@
 - [IntelliJ IDEA](https://www.jetbrains.com/idea)
 - [Zen Browser](https://zen-browser.app)
 - [Termius](https://termius.com)
+- [Notion](https://notion.com)
 ### Other
 - [Tailscale](https://tailscale.com)
 

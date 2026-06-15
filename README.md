@@ -1,4 +1,5 @@
 # I am jackr4bbit, writer of code.
+![](animation.svg)
 
 ## My Setup
 ### CLI
